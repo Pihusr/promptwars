@@ -1,5 +1,5 @@
 Toh dekho
-My vey first project 
-Probaby gonna be weird
-I needed an initial file toh meine yahan daal di 
-baaki dekhi jaayegi
+My very first project 
+I am figuring it out as I go 
+I really hope you like it
+Created for PromptWarsxOSWAP Vibe Coding Hackathon
