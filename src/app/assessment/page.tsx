@@ -304,6 +304,7 @@ export default function AssessmentPage() {
           skills={goalDef.skills}
           studentName={onboardingDraft.name}
           onBackToAssessment={() => setIsReviewMode(false)}
+          onJumpToSkill={handleSelectSkillIndex}
           onConfirmAndSave={handleConfirmAndSave}
           isSubmitting={isSubmitting}
         />
